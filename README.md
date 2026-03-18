@@ -83,7 +83,3 @@ This project demonstrates:
 - Business-driven analysis and decision-making  
 
 ---
-
----
-
-## 📁 Project Structure
